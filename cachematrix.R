@@ -9,7 +9,6 @@
 ##  ·getinverse  get the inverse of the matrix object
 
 makeCacheMatrix <- function(x = matrix()) {
-    
     ## Create the functions
     m <- NULL
     set <- function(y) {
